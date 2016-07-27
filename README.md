@@ -24,9 +24,11 @@ Open your browser and open http://{docker-machine ip}:5000
 
 ## Detailed instructions can ben found on my blog
 
-[docker4dotnet #1 前世今生 & 世界你好](http://devopshub.cn/2016/07/08/docker4dotnet-1-overview-and-helloworld/)
-[docker4dotnet #2 容器化主机](http://devopshub.cn/2016/07/13/docker4dotnet-2-docker-machine-create-dockerized-hosts/)
-[Ddocker4dotnet #3 .net猿和小鲸鱼的苹果山之旅](http://devopshub.cn/2016/07/27/docker4dotnet-3-macos-aspnet-mysql-docker-compose/)
+-[docker4dotnet #1 前世今生 & 世界你好](http://devopshub.cn/2016/07/08/docker4dotnet-1-overview-and-helloworld/)
+
+-[docker4dotnet #2 容器化主机](http://devopshub.cn/2016/07/13/docker4dotnet-2-docker-machine-create-dockerized-hosts/)
+
+-[Ddocker4dotnet #3 .net猿和小鲸鱼的苹果山之旅](http://devopshub.cn/2016/07/27/docker4dotnet-3-macos-aspnet-mysql-docker-compose/)
 
 ![](/images/qrcode-devopshub.jpg)
 
