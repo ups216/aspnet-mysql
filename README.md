@@ -22,6 +22,10 @@ docker-compose up
 
 Open your browser and open http://{docker-machine ip}:5000 
 
+## Docker Image Url
+
+[ups216/aspnetmysql](https://hub.docker.com/r/ups216/aspnetmysql/)
+
 ## Detailed instructions can ben found on my blog
 
 -[docker4dotnet #1 前世今生 & 世界你好](http://devopshub.cn/2016/07/08/docker4dotnet-1-overview-and-helloworld/)
