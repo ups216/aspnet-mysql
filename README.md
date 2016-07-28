@@ -15,10 +15,11 @@ Make sure you have ready to connect dockerized host, connect your host
 - on macOS: eval $(docker-machine env {machine-name})
 - on Windows: @FOR /f "tokens=*" %i IN ('docker-machine env {machine-name}') DO @%i
 
-Run the code 
+## Run the code 
 
-cd src/aspnet-mysql
-docker-compose up 
+- cd src/aspnet-mysql
+- docker-compose build
+- docker-compose up -d
 
 Open your browser and open http://{docker-machine ip}:5000 
 
