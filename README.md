@@ -40,7 +40,7 @@ Open your browser and navigate to http://{docker-machine ip}:5000
 
 ## Video Demo
 
-
+[http://v.qq.com/x/page/b031665qwth.html](http://v.qq.com/x/page/b031665qwth.html)
 
 
 
