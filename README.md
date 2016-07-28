@@ -20,8 +20,9 @@ Make sure you have ready to connect dockerized host, connect your host
 - cd src/aspnet-mysql
 - docker-compose build
 - docker-compose up -d
+- docker-machine ip {machine-name}
 
-Open your browser and open http://{docker-machine ip}:5000 
+Open your browser and navigate to http://{docker-machine ip}:5000 
 
 ## Docker Image Url
 
